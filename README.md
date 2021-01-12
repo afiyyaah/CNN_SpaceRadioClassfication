@@ -1,6 +1,6 @@
 # CNN_SpaceRadioClassfication
 
-##This has been done as a project under Coursera named "Classify Radio Signals from Space using Keras" to help understand CNN and the implementation of classification techniques on SETI outer Space datasets using the following technologies:
+## This has been done as a project under Coursera named "Classify Radio Signals from Space using Keras" to help understand CNN and the implementation of classification techniques on SETI outer Space datasets using the following technologies:
 
 
  1. Numpy
